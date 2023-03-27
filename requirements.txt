@@ -1,0 +1,9 @@
+geopandas
+pandas
+alphashape
+numpy
+shapely
+sklearn
+sqlalchemy
+psycopg2
+geoalchemy2

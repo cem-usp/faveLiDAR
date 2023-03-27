@@ -25,6 +25,24 @@ São Paulo tem a disposição dois levantamentos LiDAR 3D, realizados em 2017 e 
 * Identificação de rotas e acessos
 * Segmentação e busca de áreas favelizadas e não favelizadas
 
+### Instalação do ambiente de trabalho
+
+Como utilizamos a biblioteca `pdal` precisamos instalar um ambiente de trabalho compatível:
+
+```
+conda create --yes --name pdal --channel conda-forge pdal ipykernel pip
+
+conda activate pdal
+
+pip install -r requirements.txt
+```
+
+E para subir o banco de dados:
+
+```
+docker run -d -e POSTGRES_USER=postgres -e POSTGRES_PASS=1234 -e POSTGRES_DBNAME=faveLiDAR -e ALLOW_IP_RANGE=0.0.0.0/0 -p 5432:5432 -v pg_data:/var/lib/postgresql --restart=always kartoza/postgis:15-3.3
+```
+
 ## Resultados
 
 Espera-se com esse repositório, além dos resultados práticos a serem publicados a medida que forem processados, persistir e disseminar ténicas de LiDAR para as análises da morfologia urbana

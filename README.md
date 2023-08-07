@@ -15,7 +15,7 @@ O objetivo desse repositório e estudar, apresentar técnicas, experimentar e av
 São Paulo tem a disposição dois levantamentos LiDAR 3D, realizados em 2017 e 2020, assim como uma extensa quantidade de dados e levantamentos disponíveis no GeoSampa. A partir de tais conjuntos de dados iremos utilizar linguagem de programação Python em Notebooks afim de gerar resultados como:
 
 * Área contruída estimada
-* Densidade Cosntruída
+* Densidade Construída
 * Aumento/Decréscimo das áreas contruiídas
 * Restituição das edificações
 * Contagem de edificações

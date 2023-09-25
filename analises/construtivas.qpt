@@ -1,0 +1,343 @@
+<Layout printResolution="300" worldFileMap="{18a28be5-0d57-4001-88fd-53d0ab51f25c}" name="seila" units="mm">
+ <Snapper snapToGuides="1" tolerance="5" snapToGrid="0" snapToItems="1"/>
+ <Grid resolution="10" offsetY="0" resUnits="mm" offsetX="0" offsetUnits="mm"/>
+ <PageCollection>
+  <symbol name="" is_animated="0" frame_rate="10" alpha="1" clip_to_extent="1" type="fill" force_rhr="0">
+   <data_defined_properties>
+    <Option type="Map">
+     <Option name="name" value="" type="QString"/>
+     <Option name="properties"/>
+     <Option name="type" value="collection" type="QString"/>
+    </Option>
+   </data_defined_properties>
+   <layer enabled="1" locked="0" pass="0" class="SimpleFill">
+    <Option type="Map">
+     <Option name="border_width_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+     <Option name="color" value="255,255,255,255" type="QString"/>
+     <Option name="joinstyle" value="miter" type="QString"/>
+     <Option name="offset" value="0,0" type="QString"/>
+     <Option name="offset_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+     <Option name="offset_unit" value="MM" type="QString"/>
+     <Option name="outline_color" value="35,35,35,255" type="QString"/>
+     <Option name="outline_style" value="no" type="QString"/>
+     <Option name="outline_width" value="0.26" type="QString"/>
+     <Option name="outline_width_unit" value="MM" type="QString"/>
+     <Option name="style" value="solid" type="QString"/>
+    </Option>
+    <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+    <prop k="color" v="255,255,255,255"/>
+    <prop k="joinstyle" v="miter"/>
+    <prop k="offset" v="0,0"/>
+    <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+    <prop k="offset_unit" v="MM"/>
+    <prop k="outline_color" v="35,35,35,255"/>
+    <prop k="outline_style" v="no"/>
+    <prop k="outline_width" v="0.26"/>
+    <prop k="outline_width_unit" v="MM"/>
+    <prop k="style" v="solid"/>
+    <data_defined_properties>
+     <Option type="Map">
+      <Option name="name" value="" type="QString"/>
+      <Option name="properties"/>
+      <Option name="type" value="collection" type="QString"/>
+     </Option>
+    </data_defined_properties>
+   </layer>
+  </symbol>
+  <LayoutItem position="0,0,mm" itemRotation="0" zValue="0" type="65638" groupUuid="" positionLock="false" blendMode="0" size="297,210,mm" background="true" positionOnPage="0,0,mm" templateUuid="{d095142b-0b44-42ee-9afd-6c49d3688bbf}" opacity="1" uuid="{d095142b-0b44-42ee-9afd-6c49d3688bbf}" excludeFromExports="0" referencePoint="0" frameJoinStyle="miter" id="" outlineWidthM="0.3,mm" frame="false" visibility="1">
+   <FrameColor blue="0" alpha="255" green="0" red="0"/>
+   <BackgroundColor blue="255" alpha="255" green="255" red="255"/>
+   <LayoutObject>
+    <dataDefinedProperties>
+     <Option type="Map">
+      <Option name="name" value="" type="QString"/>
+      <Option name="properties"/>
+      <Option name="type" value="collection" type="QString"/>
+     </Option>
+    </dataDefinedProperties>
+    <customproperties>
+     <Option/>
+    </customproperties>
+   </LayoutObject>
+   <symbol name="" is_animated="0" frame_rate="10" alpha="1" clip_to_extent="1" type="fill" force_rhr="0">
+    <data_defined_properties>
+     <Option type="Map">
+      <Option name="name" value="" type="QString"/>
+      <Option name="properties"/>
+      <Option name="type" value="collection" type="QString"/>
+     </Option>
+    </data_defined_properties>
+    <layer enabled="1" locked="0" pass="0" class="SimpleFill">
+     <Option type="Map">
+      <Option name="border_width_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+      <Option name="color" value="255,255,255,255" type="QString"/>
+      <Option name="joinstyle" value="miter" type="QString"/>
+      <Option name="offset" value="0,0" type="QString"/>
+      <Option name="offset_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+      <Option name="offset_unit" value="MM" type="QString"/>
+      <Option name="outline_color" value="35,35,35,255" type="QString"/>
+      <Option name="outline_style" value="no" type="QString"/>
+      <Option name="outline_width" value="0.26" type="QString"/>
+      <Option name="outline_width_unit" value="MM" type="QString"/>
+      <Option name="style" value="solid" type="QString"/>
+     </Option>
+     <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+     <prop k="color" v="255,255,255,255"/>
+     <prop k="joinstyle" v="miter"/>
+     <prop k="offset" v="0,0"/>
+     <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+     <prop k="offset_unit" v="MM"/>
+     <prop k="outline_color" v="35,35,35,255"/>
+     <prop k="outline_style" v="no"/>
+     <prop k="outline_width" v="0.26"/>
+     <prop k="outline_width_unit" v="MM"/>
+     <prop k="style" v="solid"/>
+     <data_defined_properties>
+      <Option type="Map">
+       <Option name="name" value="" type="QString"/>
+       <Option name="properties"/>
+       <Option name="type" value="collection" type="QString"/>
+      </Option>
+     </data_defined_properties>
+    </layer>
+   </symbol>
+  </LayoutItem>
+  <GuideCollection visible="1"/>
+ </PageCollection>
+ <LayoutItem blendMode="0" frameJoinStyle="miter" groupUuid="" fontColor="#000000" wmsLegendHeight="25" visibility="1" positionOnPage="249.85,109.386,mm" referencePoint="0" columnCount="1" wrapChar="\" columnSpace="2" itemRotation="0" symbolWidth="7" splitLayer="0" resizeToContents="1" templateUuid="{425128f9-3cba-4346-b9ca-b35583748523}" type="65642" background="false" excludeFromExports="0" rasterBorderColor="0,0,0,255" map_uuid="{f6941755-8612-4d19-a7da-ceaf7f92b3fc}" boxSpace="2" position="249.85,109.386,mm" equalColumnWidth="0" opacity="1" titleAlignment="1" id="" legendFilterByAtlas="0" positionLock="false" uuid="{425128f9-3cba-4346-b9ca-b35583748523}" outlineWidthM="0.3,mm" zValue="9" symbolAlignment="1" minSymbolSize="0" rasterBorder="1" maxSymbolSize="0" frame="false" rasterBorderWidth="0" lineSpacing="1" symbolHeight="4" title="" size="37.2078,68.5,mm" wmsLegendWidth="50">
+  <FrameColor blue="0" alpha="255" green="0" red="0"/>
+  <BackgroundColor blue="255" alpha="255" green="255" red="255"/>
+  <LayoutObject>
+   <dataDefinedProperties>
+    <Option type="Map">
+     <Option name="name" value="" type="QString"/>
+     <Option name="properties"/>
+     <Option name="type" value="collection" type="QString"/>
+    </Option>
+   </dataDefinedProperties>
+   <customproperties>
+    <Option/>
+   </customproperties>
+  </LayoutObject>
+  <styles>
+   <style name="title" alignment="1" indent="0" marginBottom="3.5">
+    <styleFont underline="0" strikethrough="0" italic="0" description="Ubuntu,16,-1,5,50,0,0,0,0,0" style="" bold="0"/>
+   </style>
+   <style marginTop="3" name="group" alignment="1" indent="0">
+    <styleFont underline="0" strikethrough="0" italic="0" description="Ubuntu,14,-1,5,50,0,0,0,0,0" style="" bold="0"/>
+   </style>
+   <style marginTop="3" name="subgroup" alignment="1" indent="0">
+    <styleFont underline="0" strikethrough="0" italic="0" description="Ubuntu,12,-1,5,50,0,0,0,0,0" style="" bold="0"/>
+   </style>
+   <style marginTop="2.5" name="symbol" alignment="1" indent="0">
+    <styleFont underline="0" strikethrough="0" italic="0" description="Ubuntu,11,-1,5,50,0,0,0,0,0" style="" bold="0"/>
+   </style>
+   <style marginTop="2" name="symbolLabel" alignment="1" marginLeft="2" indent="0">
+    <styleFont underline="0" strikethrough="0" italic="0" description="Ubuntu,12,-1,5,50,0,0,0,0,0" style="" bold="0"/>
+   </style>
+  </styles>
+  <layer-tree-group>
+   <customproperties>
+    <Option/>
+   </customproperties>
+   <layer-tree-layer expanded="1" id="distritos_zonal_stats_a912ef6f_8d93_471a_8307_097d41e10a1d" name="Inconformidade Cadastral" legend_exp="" source="./data/delta/distritos_zonal_stats.gpkg|layername=distritos_zonal_stats" checked="Qt::Checked" patch_size="-1,-1" providerKey="ogr" legend_split_behavior="0">
+    <customproperties>
+     <Option type="Map">
+      <Option name="cached_name" value="Inconformidade\Cadastral" type="QString"/>
+      <Option name="legend/title-label" value="Inconformidade\Cadastral" type="QString"/>
+     </Option>
+    </customproperties>
+   </layer-tree-layer>
+   <custom-order enabled="0">
+    <item>distritos_zonal_stats_a912ef6f_8d93_471a_8307_097d41e10a1d</item>
+   </custom-order>
+  </layer-tree-group>
+ </LayoutItem>
+ <LayoutItem blendMode="0" frameJoinStyle="miter" groupUuid="" fontColor="#000000" wmsLegendHeight="25" visibility="1" positionOnPage="55.945,110.002,mm" referencePoint="0" columnCount="1" wrapChar="\" columnSpace="2" itemRotation="0" symbolWidth="7" splitLayer="0" resizeToContents="1" templateUuid="{618cb918-fbec-44d7-a5fc-7b8538e3c791}" type="65642" background="false" excludeFromExports="0" rasterBorderColor="0,0,0,255" map_uuid="{18a28be5-0d57-4001-88fd-53d0ab51f25c}" boxSpace="2" position="55.945,110.002,mm" equalColumnWidth="0" opacity="1" titleAlignment="1" id="" legendFilterByAtlas="0" positionLock="false" uuid="{618cb918-fbec-44d7-a5fc-7b8538e3c791}" outlineWidthM="0.3,mm" zValue="5" symbolAlignment="1" minSymbolSize="0" rasterBorder="1" maxSymbolSize="0" frame="false" rasterBorderWidth="0" lineSpacing="1" symbolHeight="4" title="" size="43.1297,68.5,mm" wmsLegendWidth="50">
+  <FrameColor blue="0" alpha="255" green="0" red="0"/>
+  <BackgroundColor blue="255" alpha="255" green="255" red="255"/>
+  <LayoutObject>
+   <dataDefinedProperties>
+    <Option type="Map">
+     <Option name="name" value="" type="QString"/>
+     <Option name="properties"/>
+     <Option name="type" value="collection" type="QString"/>
+    </Option>
+   </dataDefinedProperties>
+   <customproperties>
+    <Option/>
+   </customproperties>
+  </LayoutObject>
+  <styles>
+   <style name="title" alignment="1" indent="0" marginBottom="3.5">
+    <styleFont underline="0" strikethrough="0" italic="0" description="Ubuntu,16,-1,5,50,0,0,0,0,0" style="" bold="0"/>
+   </style>
+   <style marginTop="3" name="group" alignment="1" indent="0">
+    <styleFont underline="0" strikethrough="0" italic="0" description="Ubuntu,14,-1,5,50,0,0,0,0,0" style="" bold="0"/>
+   </style>
+   <style marginTop="3" name="subgroup" alignment="1" indent="0">
+    <styleFont underline="0" strikethrough="0" italic="0" description="Ubuntu,12,-1,5,50,0,0,0,0,0" style="" bold="0"/>
+   </style>
+   <style marginTop="2.5" name="symbol" alignment="1" indent="0">
+    <styleFont underline="0" strikethrough="0" italic="0" description="Ubuntu,11,-1,5,50,0,0,0,0,0" style="" bold="0"/>
+   </style>
+   <style marginTop="2" name="symbolLabel" alignment="1" marginLeft="2" indent="0">
+    <styleFont underline="0" strikethrough="0" italic="0" description="Ubuntu,12,-1,5,50,0,0,0,0,0" style="" bold="0"/>
+   </style>
+  </styles>
+  <layer-tree-group>
+   <customproperties>
+    <Option/>
+   </customproperties>
+   <layer-tree-layer expanded="1" id="Inconformidade_Cadastral__copiar_42fdbba9_3a9f_4f9d_9363_9c91146586ed" name="Área Construída (Cadastral)" legend_exp="" source="./data/delta/distritos_zonal_stats.gpkg|layername=distritos_zonal_stats" checked="Qt::Checked" patch_size="-1,-1" providerKey="ogr" legend_split_behavior="0">
+    <customproperties>
+     <Option type="Map">
+      <Option name="cached_name" value="Área Construída\(Cadastral)" type="QString"/>
+      <Option name="legend/title-label" value="Área Construída\(Cadastral)" type="QString"/>
+     </Option>
+    </customproperties>
+   </layer-tree-layer>
+   <custom-order enabled="0"/>
+  </layer-tree-group>
+ </LayoutItem>
+ <LayoutItem blendMode="0" frameJoinStyle="miter" groupUuid="" fontColor="#000000" wmsLegendHeight="25" visibility="1" positionOnPage="151.393,110.002,mm" referencePoint="0" columnCount="1" wrapChar="\" columnSpace="2" itemRotation="0" symbolWidth="7" splitLayer="0" resizeToContents="1" templateUuid="{04dd1d10-55ff-4060-b31c-e2f0142384e1}" type="65642" background="false" excludeFromExports="0" rasterBorderColor="0,0,0,255" map_uuid="{f6941755-8612-4d19-a7da-ceaf7f92b3fc}" boxSpace="2" position="151.393,110.002,mm" equalColumnWidth="0" opacity="1" titleAlignment="1" id="" legendFilterByAtlas="0" positionLock="false" uuid="{04dd1d10-55ff-4060-b31c-e2f0142384e1}" outlineWidthM="0.3,mm" zValue="4" symbolAlignment="1" minSymbolSize="0" rasterBorder="1" maxSymbolSize="0" frame="false" rasterBorderWidth="0" lineSpacing="1" symbolHeight="4" title="" size="43.1297,68.5,mm" wmsLegendWidth="50">
+  <FrameColor blue="0" alpha="255" green="0" red="0"/>
+  <BackgroundColor blue="255" alpha="255" green="255" red="255"/>
+  <LayoutObject>
+   <dataDefinedProperties>
+    <Option type="Map">
+     <Option name="name" value="" type="QString"/>
+     <Option name="properties"/>
+     <Option name="type" value="collection" type="QString"/>
+    </Option>
+   </dataDefinedProperties>
+   <customproperties>
+    <Option/>
+   </customproperties>
+  </LayoutObject>
+  <styles>
+   <style name="title" alignment="1" indent="0" marginBottom="3.5">
+    <styleFont underline="0" strikethrough="0" italic="0" description="Ubuntu,16,-1,5,50,0,0,0,0,0" style="" bold="0"/>
+   </style>
+   <style marginTop="3" name="group" alignment="1" indent="0">
+    <styleFont underline="0" strikethrough="0" italic="0" description="Ubuntu,14,-1,5,50,0,0,0,0,0" style="" bold="0"/>
+   </style>
+   <style marginTop="3" name="subgroup" alignment="1" indent="0">
+    <styleFont underline="0" strikethrough="0" italic="0" description="Ubuntu,12,-1,5,50,0,0,0,0,0" style="" bold="0"/>
+   </style>
+   <style marginTop="2.5" name="symbol" alignment="1" indent="0">
+    <styleFont underline="0" strikethrough="0" italic="0" description="Ubuntu,11,-1,5,50,0,0,0,0,0" style="" bold="0"/>
+   </style>
+   <style marginTop="2" name="symbolLabel" alignment="1" marginLeft="2" indent="0">
+    <styleFont underline="0" strikethrough="0" italic="0" description="Ubuntu,12,-1,5,50,0,0,0,0,0" style="" bold="0"/>
+   </style>
+  </styles>
+  <layer-tree-group>
+   <customproperties>
+    <Option/>
+   </customproperties>
+   <layer-tree-layer expanded="1" id="Inconformidade_Cadastral_c5ae9d2d_2237_4930_b9dd_e3f94c0193e4" name="Área Construída (LiDAR 3D)" legend_exp="" source="./data/delta/distritos_zonal_stats.gpkg|layername=distritos_zonal_stats" checked="Qt::Checked" patch_size="-1,-1" providerKey="ogr" legend_split_behavior="0">
+    <customproperties>
+     <Option type="Map">
+      <Option name="cached_name" value="Área Construída\(LiDAR 3D)" type="QString"/>
+      <Option name="legend/title-label" value="Área Construída\(LiDAR 3D)" type="QString"/>
+     </Option>
+    </customproperties>
+   </layer-tree-layer>
+   <custom-order enabled="0">
+    <item>Inconformidade_Cadastral_c5ae9d2d_2237_4930_b9dd_e3f94c0193e4</item>
+   </custom-order>
+  </layer-tree-group>
+ </LayoutItem>
+ <LayoutItem position="95.448,5.4244e-05,mm" itemRotation="0" mapRotation="0" zValue="3" type="65639" groupUuid="" positionLock="false" blendMode="0" size="111.89,210,mm" background="false" positionOnPage="95.448,5.4244e-05,mm" templateUuid="{f6941755-8612-4d19-a7da-ceaf7f92b3fc}" opacity="1" followPresetName="" uuid="{f6941755-8612-4d19-a7da-ceaf7f92b3fc}" labelMargin="0,mm" isTemporal="0" excludeFromExports="0" referencePoint="0" frameJoinStyle="miter" followPreset="false" drawCanvasItems="false" id="Mapa 1" outlineWidthM="0.3,mm" frame="false" keepLayerSet="true" mapFlags="0" visibility="1">
+  <FrameColor blue="0" alpha="255" green="0" red="0"/>
+  <BackgroundColor blue="255" alpha="255" green="255" red="255"/>
+  <LayoutObject>
+   <dataDefinedProperties>
+    <Option type="Map">
+     <Option name="name" value="" type="QString"/>
+     <Option name="properties"/>
+     <Option name="type" value="collection" type="QString"/>
+    </Option>
+   </dataDefinedProperties>
+   <customproperties>
+    <Option/>
+   </customproperties>
+  </LayoutObject>
+  <Extent xmin="309031.42705668602138758" ymin="7327449.58508000057190657" ymax="7432449.5851871008053422" xmax="364976.44156461698003113"/>
+  <LayerSet>
+   <Layer name="Área Construída (LiDAR 3D)" provider="ogr" source="/home/fernando/dev/faveLiDAR/data/delta/distritos_zonal_stats.gpkg|layername=distritos_zonal_stats">Inconformidade_Cadastral_c5ae9d2d_2237_4930_b9dd_e3f94c0193e4</Layer>
+  </LayerSet>
+  <AtlasMap atlasDriven="0" scalingMode="2" margin="0.10000000000000001"/>
+  <labelBlockingItems/>
+  <atlasClippingSettings enabled="0" clippingType="1" forceLabelsInside="0" restrictLayers="0">
+   <layersToClip/>
+  </atlasClippingSettings>
+  <itemClippingSettings enabled="0" clippingType="1" clipSource="" forceLabelsInside="0"/>
+ </LayoutItem>
+ <LayoutItem position="0,0,mm" itemRotation="0" mapRotation="0" zValue="2" type="65639" groupUuid="" positionLock="false" blendMode="0" size="111.89,210,mm" background="false" positionOnPage="0,0,mm" templateUuid="{18a28be5-0d57-4001-88fd-53d0ab51f25c}" opacity="1" followPresetName="" uuid="{18a28be5-0d57-4001-88fd-53d0ab51f25c}" labelMargin="0,mm" isTemporal="0" excludeFromExports="0" referencePoint="0" frameJoinStyle="miter" followPreset="false" drawCanvasItems="true" id="Mapa 1" outlineWidthM="0.3,mm" frame="false" keepLayerSet="true" mapFlags="0" visibility="1">
+  <FrameColor blue="0" alpha="255" green="0" red="0"/>
+  <BackgroundColor blue="255" alpha="255" green="255" red="255"/>
+  <LayoutObject>
+   <dataDefinedProperties>
+    <Option type="Map">
+     <Option name="name" value="" type="QString"/>
+     <Option name="properties"/>
+     <Option name="type" value="collection" type="QString"/>
+    </Option>
+   </dataDefinedProperties>
+   <customproperties>
+    <Option/>
+   </customproperties>
+  </LayoutObject>
+  <Extent xmin="309031.42705668602138758" ymin="7327449.58508000057190657" ymax="7432449.5851871008053422" xmax="364976.44156461698003113"/>
+  <LayerSet>
+   <Layer name="Área Construída (Cadastral)" provider="ogr" source="/home/fernando/dev/faveLiDAR/data/delta/distritos_zonal_stats.gpkg|layername=distritos_zonal_stats">Inconformidade_Cadastral__copiar_42fdbba9_3a9f_4f9d_9363_9c91146586ed</Layer>
+  </LayerSet>
+  <AtlasMap atlasDriven="0" scalingMode="2" margin="0.10000000000000001"/>
+  <labelBlockingItems/>
+  <atlasClippingSettings enabled="0" clippingType="1" forceLabelsInside="0" restrictLayers="0">
+   <layersToClip/>
+  </atlasClippingSettings>
+  <itemClippingSettings enabled="0" clippingType="1" clipSource="" forceLabelsInside="0"/>
+ </LayoutItem>
+ <LayoutItem position="192.11,0.386416,mm" itemRotation="0" mapRotation="0" zValue="1" type="65639" groupUuid="" positionLock="false" blendMode="0" size="111.89,210,mm" background="false" positionOnPage="192.11,0.386416,mm" templateUuid="{eb15019d-bd95-441b-a758-8c49b6160544}" opacity="1" followPresetName="" uuid="{eb15019d-bd95-441b-a758-8c49b6160544}" labelMargin="0,mm" isTemporal="0" excludeFromExports="0" referencePoint="0" frameJoinStyle="miter" followPreset="false" drawCanvasItems="false" id="Mapa 1" outlineWidthM="0.3,mm" frame="false" keepLayerSet="true" mapFlags="0" visibility="1">
+  <FrameColor blue="0" alpha="255" green="0" red="0"/>
+  <BackgroundColor blue="255" alpha="255" green="255" red="255"/>
+  <LayoutObject>
+   <dataDefinedProperties>
+    <Option type="Map">
+     <Option name="name" value="" type="QString"/>
+     <Option name="properties"/>
+     <Option name="type" value="collection" type="QString"/>
+    </Option>
+   </dataDefinedProperties>
+   <customproperties>
+    <Option/>
+   </customproperties>
+  </LayoutObject>
+  <Extent xmin="309031.42705668602138758" ymin="7327449.58508000057190657" ymax="7432449.5851871008053422" xmax="364976.44156461698003113"/>
+  <LayerSet>
+   <Layer name="Inconformidade Cadastral" provider="ogr" source="/home/fernando/dev/faveLiDAR/data/delta/distritos_zonal_stats.gpkg|layername=distritos_zonal_stats">distritos_zonal_stats_a912ef6f_8d93_471a_8307_097d41e10a1d</Layer>
+  </LayerSet>
+  <AtlasMap atlasDriven="0" scalingMode="2" margin="0.10000000000000001"/>
+  <labelBlockingItems/>
+  <atlasClippingSettings enabled="0" clippingType="1" forceLabelsInside="0" restrictLayers="0">
+   <layersToClip/>
+  </atlasClippingSettings>
+  <itemClippingSettings enabled="0" clippingType="1" clipSource="" forceLabelsInside="0"/>
+ </LayoutItem>
+ <customproperties>
+  <Option type="Map">
+   <Option name="atlasRasterFormat" value="png" type="QString"/>
+   <Option name="imageAntialias" value="true" type="bool"/>
+   <Option name="imageCropMarginBottom" value="0" type="int"/>
+   <Option name="imageCropMarginLeft" value="0" type="int"/>
+   <Option name="imageCropMarginRight" value="0" type="int"/>
+   <Option name="imageCropMarginTop" value="0" type="int"/>
+   <Option name="imageCropToContents" value="false" type="bool"/>
+   <Option name="singleFile" value="true" type="bool"/>
+  </Option>
+ </customproperties>
+ <Atlas enabled="0" sortFeatures="0" hideCoverage="0" coverageLayer="" pageNameExpression="" filenamePattern="'output_'||@atlas_featurenumber" filterFeatures="0"/>
+</Layout>
